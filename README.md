@@ -6,5 +6,6 @@ Items in this repo include:
 2) the R script, both in rmd and PFD format
 3) a PDF presentation of the results. 
 Please note that I have been helped by Mirco Balduini (follow him on GitHub and LinkedIn!) in this research, and that we'll probably work further on this subject in the near future.
+
 Thanks for reading, 
 Dy. 
